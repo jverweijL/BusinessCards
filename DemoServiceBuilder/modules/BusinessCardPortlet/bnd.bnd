@@ -1,0 +1,4 @@
+Bundle-Name: BusinessCardPortlet
+Bundle-SymbolicName: com.liferay.demo.businesscardportlet
+Bundle-Version: 1.0.0
+Export-Package: com.liferay.demo.constants

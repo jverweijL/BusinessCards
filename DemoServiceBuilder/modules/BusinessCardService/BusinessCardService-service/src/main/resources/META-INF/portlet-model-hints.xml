@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+
+<model-hints>
+	<model name="com.liferay.demo.model.businesscard">
+		<field name="uuid" type="String" />
+		<field name="businesscardId" type="long" />
+		<field name="name" type="String" />
+		<field name="position" type="String" />
+		<field name="email" type="String" />
+		<field name="phone" type="String" />
+		<field name="company" type="String" />
+	</model>
+</model-hints>

@@ -1,0 +1,8 @@
+INDEX VERSION 1.130+/liferay/development/ServiceBuilder/demo-master/.metadata/.plugins/org.eclipse.jdt.core
+2700884297.index
+356110478.index
+4112814898.index
+3607803830.index
+3982481360.index
+1016766202.index
+275931542.index

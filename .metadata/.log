@@ -1,0 +1,51 @@
+!SESSION 2017-11-24 12:34:13.535 -----------------------------------------------
+eclipse.buildId=3.1.2.201709011126-ga3
+java.version=1.8.0_131
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product com.liferay.ide.studio.ui.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product com.liferay.ide.studio.ui.product
+
+!ENTRY org.eclipse.ui 2 0 2017-11-24 12:34:20.002
+!MESSAGE Warnings while parsing the images from the 'org.eclipse.ui.commandImages' extension point.
+!SUBENTRY 1 org.eclipse.ui 2 0 2017-11-24 12:34:20.002
+!MESSAGE Cannot bind to an undefined command: plug-in='com.liferay.ide.project.ui', id='com.liferay.ide.project.ui.upgrade.openLiferay7UpgradeAssistant'
+
+!ENTRY org.eclipse.ui 4 4 2017-11-24 12:34:25.213
+!MESSAGE Referenced part does not exist yet: fast.
+
+!ENTRY org.apache.ivyde.eclipse 1 0 2017-11-24 12:34:34.963
+!MESSAGE starting IvyDE plugin
+
+!ENTRY org.apache.ivyde.eclipse 1 0 2017-11-24 12:34:34.982
+!MESSAGE IvyDE plugin started
+!SESSION 2017-11-28 11:20:40.491 -----------------------------------------------
+eclipse.buildId=3.1.2.201709011126-ga3
+java.version=1.8.0_151
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product com.liferay.ide.studio.ui.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product com.liferay.ide.studio.ui.product
+
+!ENTRY org.eclipse.ui 2 0 2017-11-28 11:21:19.049
+!MESSAGE Warnings while parsing the images from the 'org.eclipse.ui.commandImages' extension point.
+!SUBENTRY 1 org.eclipse.ui 2 0 2017-11-28 11:21:19.049
+!MESSAGE Cannot bind to an undefined command: plug-in='com.liferay.ide.project.ui', id='com.liferay.ide.project.ui.upgrade.openLiferay7UpgradeAssistant'
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2017-11-28 11:21:24.404
+!MESSAGE Removing part descriptor with the 'org.eclipse.linuxtools.docker.ui.dockerContainersView' id and the 'Docker Containers' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2017-11-28 11:21:24.419
+!MESSAGE Removing part descriptor with the 'org.eclipse.linuxtools.docker.ui.dockerImagesView' id and the 'Docker Images' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2017-11-28 11:21:24.419
+!MESSAGE Removing part descriptor with the 'org.eclipse.linuxtools.docker.ui.dockerExplorerView' id and the 'Docker Explorer' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2017-11-28 11:21:24.419
+!MESSAGE Removing part descriptor with the 'org.eclipse.linuxtools.docker.ui.dockerImageHierarchyView' id and the 'Docker Image Hierarchy' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.apache.ivyde.eclipse 1 0 2017-11-28 11:21:34.056
+!MESSAGE starting IvyDE plugin
+
+!ENTRY org.apache.ivyde.eclipse 1 0 2017-11-28 11:21:34.069
+!MESSAGE IvyDE plugin started

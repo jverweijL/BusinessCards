@@ -1,0 +1,9 @@
+Bundle-Name: BusinessCardService-api
+Bundle-SymbolicName: com.liferay.demo.api
+Bundle-Version: 1.0.0
+Export-Package:\
+	com.liferay.demo.exception,\
+	com.liferay.demo.model,\
+	com.liferay.demo.service,\
+	com.liferay.demo.service.persistence
+-includeresource: META-INF/service.xml=../BusinessCardService-service/service.xml

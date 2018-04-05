@@ -1,0 +1,9 @@
+#
+#Tue Nov 28 11:24:08 CET 2017
+linkedResources=
+managedNatures=
+classpath=<?xml version\="1.0" encoding\="UTF-8"?>\n<classpath>\n</classpath>\n
+subprojectPaths=BusinessCardService-api\:BusinessCardService-service
+derivedResources=.gradle\:build\:BusinessCardService-api/build\:BusinessCardService-service/build
+managedBuilders=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><commands/>
+buildDir=build
